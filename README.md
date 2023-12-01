@@ -1,5 +1,5 @@
-Bandit Level 0 Readme
-Level Goal
+Bandit Level 0 Readme |
+Level Goal | 
 Welcome to Bandit Level 0! The objective of this level is to log into the game using SSH. The target host for your connection is bandit.labs.overthewire.org, and the connection should be made on port 2220. The login credentials are as follows:
 
 Username: bandit0
