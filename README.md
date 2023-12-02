@@ -8,9 +8,8 @@ Once successfully logged in, proceed to the Level 1 page to discover the instruc
 
 Instructions
 Step 1: Connect to the Game
-Use an SSH client to connect to the specified host and port with the provided username and password. For example, you can use the following command in the terminal:
+Use an SSH client to connect to the specified host and port with the provided username and password. Use the following command in the terminal:
 
-bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 You will be prompted to enter the password. Type in bandit0 as the password.
